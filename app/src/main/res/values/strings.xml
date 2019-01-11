@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVPApp</string>
+    <string name="title">Title 1</string>
+    <string name="description">Deskription</string>
+    <string name="save">Save</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_all">Delete All Notes</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
